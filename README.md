@@ -1,9 +1,9 @@
 # lecture05-ml — OOP in Python
 
-A lecture on Object-Oriented Programming in Python: a slide presentation
-plus a hands-on practice & homework notebook. The lecture uses a Minecraft
-analogy (Player, Mob, Zombie, Skeleton, Creeper) to build intuition.
-Available in three languages: Russian, Uzbek and English.
+A lecture on Object-Oriented Programming in Python, delivered as a slide
+presentation. The lecture uses a Minecraft analogy (Player, Mob, Zombie,
+Skeleton, Creeper) to build intuition. Available in three languages:
+Russian, Uzbek and English.
 
 ## Topics covered
 
@@ -16,9 +16,7 @@ Available in three languages: Russian, Uzbek and English.
 - **Polymorphism** — one interface, different behaviour
 - **OOP in real libraries** — `str`, pandas `DataFrame`, scikit-learn models
 
-## Contents
-
-### Slide presentation
+## Slide presentation
 
 | Language | File |
 | --- | --- |
@@ -29,21 +27,3 @@ Available in three languages: Russian, Uzbek and English.
 Open any of the files in a browser. A language switcher in the top-right
 corner links the three versions together. Navigate slides with the arrow
 keys or Space (← / → ), or swipe on touch devices.
-
-### Practice & homework notebook
-
-| Language | File |
-| --- | --- |
-| English  | [`lesson4_oop_tasks_en.ipynb`](lesson4_oop_tasks_en.ipynb) |
-| Russian  | [`lesson4_oop_tasks_ru.ipynb`](lesson4_oop_tasks_ru.ipynb) |
-| Uzbek    | [`lesson4_oop_tasks_uz.ipynb`](lesson4_oop_tasks_uz.ipynb) |
-
-In-class practice plus three homework tasks: a `Book` class, a vehicle
-inheritance hierarchy (`Vehicle → Car → ElectricCar`), and a `Stats` class.
-Open with Jupyter Notebook, JupyterLab, VS Code, or Google Colab. No external
-dependencies — only the Python standard library is used.
-
-## Requirements
-
-- Python 3.7+
-- Jupyter (`pip install notebook`) to run the notebook
